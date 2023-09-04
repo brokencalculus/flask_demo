@@ -1,4 +1,4 @@
-"""Basic flask application."""
+"""Page rendering simple html."""
 from flask import Flask
 app = Flask(__name__)
 
